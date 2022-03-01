@@ -1,0 +1,418 @@
+
+.header-section{
+    background: url(image/Food.png);
+    padding-top: 20px;
+}
+.top-logo{
+    text-align: right;
+    padding-left: 60px;
+}
+.top-header{
+    text-align: right;
+    text-transform: capitalize;
+    font-size: 18px;
+    display: inline-block;
+}
+.header-section ul li{
+    display: inline-block;
+    text-align: right;
+    text-transform: uppercase;
+    padding: 0px 50px;
+    font-size: 16px;
+    font-family: [BebasNeueBold];
+}
+ul li:last-child{
+    padding-right: 0px;
+}
+.header-section ul{
+    text-align: right;
+}
+.left-image{
+   margin-left: -100px;
+   margin-top: -60px;
+}
+.middle-image{
+    margin-left: -150px;
+    position: absolute;
+    filter: drop-shadow(0px 60px 30px #0e0e0e);
+}
+.right-image{
+  
+   margin-top: -120px;
+   margin-right: 100px;
+}
+.banner-description{
+    font-size: 18px;
+    border: 3px dotted #3d2514;
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    color: #3d2514 !important;
+}
+.banner-heading1{
+    font-size: 100px;
+    font-family: Alfa Slab One;
+    color: #3d2514;
+    text-shadow: 5px 5px #dddddd;
+}
+.banner-heading2{
+    font-size: 70px;
+    font-family: Alfa Slab One;
+    color: #3d2514;
+    text-shadow: 5px 5px #dddddd;
+}
+
+.banner-section{
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.price-section{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: red;
+    margin-top: 200px;
+    margin-left: 170px;
+    z-index: 999999999 !important;
+    position: absolute;
+    border: 2px dotted #ffffff;
+    
+}
+.price{
+    font-size: 80px;
+    font-family: BebasNeueBold;
+    font-weight: 600;
+    display: inline-block;
+    margin-left: 38px;
+    margin-top: 20px;
+    color: #ffffff;
+}
+.price2{
+    font-size: 40px;
+    font-family: BebasNeueBold;
+    font-weight: 500;
+    display: inline-block;
+    color: #ffffff;
+}
+.only{
+    font-size: 70px;
+    font-family: BebasNeueBold;
+    margin-top: -35px;
+    margin-left: 38px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+.about-section{
+    margin-top: 80px;
+}
+.about-section1{
+    background: url(image/Untitled-23.png);
+    height: 420px;
+    width: 616px;
+    box-sizing: border-box !important;
+    border-radius: 10px;
+}
+.about-section2{
+    background: url(image/Untitled-2.png);
+    height: 192px;
+    width: 620px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.about-section3{
+    background: url(image/Untitled-3.png);
+    height: 192px;
+    width: 620px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.section-gap{
+    gap: 36px ;
+}
+.gap1{
+    gap: 40px;
+    
+}
+.try-it-today{
+    margin-top: 30px;
+    margin-left: 20px;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: Bebas Neue;
+}
+.most-popular{
+    margin-left: 20px;
+    font-family: Bebas Neue;
+    line-height: 15px;
+    font-size: 40px;
+    color: #ffffff;
+}
+.more-testy{
+    margin-left: 20px;
+    font-family: Bebas Neue;
+    line-height: 45px;
+    font-size: 40px;
+    color: #ffffff; 
+}
+
+
+
+
+
+
+
+.card-section{
+    margin-top: 100px;
+}
+.card-heading{
+    text-align: center;
+    font-family: Bebas Neue;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.card-description{
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 300;
+    color: #3d2514;
+    line-height: 25px;
+    opacity: 0.7;
+    margin-top: -4px;
+}
+
+.order-now{
+    font-size: 20px;
+    font-family: Alfa Slab One;
+    background-color: red;
+    padding: 15px 40px;
+    margin-top: 20px;
+    color: #ffffff;
+    border: none;
+}
+.order{
+    text-align: center;
+    width: 100%;
+}
+.testy-burger{
+    font-size: 30px;
+    font-family: Bebas Neue;
+    background-color: #ffc135;
+    text-align: center;
+    padding: 10px 20px;
+}
+.card-section-heading{
+    width: 260px;
+    margin: 0 auto;
+
+}
+.choose-enjoy{
+    margin-top: 40px;
+    font-size: 50px;
+    font-family: Alfa Slab One;
+    color: #3d2514;
+    text-align: center;
+}
+.description{
+    text-align: center;
+    padding: 0px 100px;
+    margin-bottom: 60px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 300;
+    color: #3d2514;
+    line-height: 25px;
+    
+    
+}
+
+
+
+
+
+
+
+.event-section{
+    margin-top: 120px;
+    box-shadow: 20px 20px 20px  #cecdcd;
+}
+.event-heading{
+    font-size: 30px;
+    font-family: Bebas Neue;
+}
+.event-heading2{
+    text-align: left;
+    font-family: Alfa Slab One;
+    font-size: 40px;
+    color: #3d2514;
+    margin-top: -7PX;
+    
+}
+.event-description{
+    font-size: 24px;
+    font-family: Montserrat;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.event-image{
+    
+    margin-left: -30px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+.slider{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: #c4c3c2;
+    display: inline-block;
+    
+    
+}
+.slider1{
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: #ffc135;
+    display: inline-block;
+    margin-top: 70px;
+    margin-left: 50px;
+    
+}
+
+
+
+
+
+
+
+.form{
+    margin-top: 70px;
+}
+.form-design{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    
+    background: url(image/Untitled-1.png )  ;
+    
+}
+.form-secton{
+    width: 785px;
+    margin:  0px auto;
+    margin-bottom: 30px;
+}
+.btn{
+    background-color: red;
+    text-align: center;
+    font-family: Alfa Slab One;
+    width: 100%;
+    padding: 10px 0px;
+}
+.form-control{
+    padding: 10px 0px;
+    padding-left: 15px;
+}
+.form-heading{
+    font-size: 30px;
+    font-family: Bebas Neue;
+    text-align: center;
+}
+.form-main-heading{
+    font-size: 60px;
+    font-family: Alfa Slab One;
+    color: #3d2514;
+    text-align: center;
+    margin-top: -5px;
+}
+
+
+
+
+
+
+footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: url(image/shahin.png) no-repeat center center ;
+}
+.footer-width{
+    width: 1700px !important;
+}
+.footer-description{
+    font-size: 22px;
+    font-family: Montserrat;
+    color: #ffffff;
+    margin-top: 30px;
+}
+.footer-location{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: Montserrat;
+    text-align: right;
+    margin-top: 150px;
+}
+.location{
+    font-size: 18px !important;
+}
+.footer-email{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: Montserrat;
+    padding-left: 270px;
+}
+.footer-logo{
+    color: #ffffff;
+}
+.social-design{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #ffffff;
+    
+    font-size: 30px !important;
+    font-weight: 700;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin: 0px 10px;
+}
+.social-facebook{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #ffffff;
+    
+    font-size: 30px !important;
+    font-weight: 700;
+    padding-right: 17px;
+    padding-top: 10px;
+    margin: 0px 10px;
+}
+.copyright{
+    font-size: 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding-top: 30px;
+    
+}
+.divider{
+    margin-top: 80px;
+    color: #ffffff;
+}
+.social{
+    text-align: right;
+    margin-top: 30px;
+}
+.divider2{
+    margin-top: 131px;
+    color: #ffffff;  
+}
+.footer-design{
+    grid-area: 0px !important;
+    margin: 0px;
+    padding: 0px;
+}
